@@ -33,6 +33,7 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.nim" },
   { import = "astrocommunity.pack.php" },
+  { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.yaml" },
