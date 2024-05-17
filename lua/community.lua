@@ -7,6 +7,7 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
+  { import = "astrocommunity.bars-and-lines.heirline-vscode-winbar" },
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
   { import = "astrocommunity.note-taking.neorg" },
   {
