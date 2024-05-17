@@ -10,6 +10,7 @@ return {
   { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
   { import = "astrocommunity.bars-and-lines.heirline-vscode-winbar" },
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
+  { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.note-taking.neorg" },
   {
     "neorg",
