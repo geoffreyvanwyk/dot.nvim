@@ -30,7 +30,10 @@ return {
   { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.nim" },
   { import = "astrocommunity.pack.php" },
+  { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.yaml" },
 }
