@@ -24,6 +24,7 @@ return {
       },
     },
   },
+  { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.nim" },
   { import = "astrocommunity.pack.php" },
