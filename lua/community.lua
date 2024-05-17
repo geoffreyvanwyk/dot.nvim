@@ -8,6 +8,22 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
+  { import = "astrocommunity.note-taking.neorg" },
+  {
+    "neorg",
+    opts = {
+      load = {
+        ["core.dirman"] = {
+          config = {
+            workspaces = {
+              notes = "~/doc/neorg/",
+            },
+            default_workspace = "notes",
+          },
+        },
+      },
+    },
+  },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.nim" },
   { import = "astrocommunity.pack.php" },
