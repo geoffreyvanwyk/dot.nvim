@@ -9,5 +9,6 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.nim" },
   { import = "astrocommunity.pack.php" },
 }
