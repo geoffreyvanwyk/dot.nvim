@@ -30,4 +30,5 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.nim" },
   { import = "astrocommunity.pack.php" },
+  { import = "astrocommunity.pack.yaml" },
 }
